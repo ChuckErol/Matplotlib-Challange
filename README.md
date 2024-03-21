@@ -15,7 +15,7 @@ Statistical Analysis:
 Visualization:
   - Created various plots including bar plots, scatter plots, line plots, and box plots to visualize data and results.
 
-#Sources:
+# Sources:
 
   - I found some of my codes from prevoius class activities.
   - I ask some questions to my classmates in Slack and during our study group meeting.
