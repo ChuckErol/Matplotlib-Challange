@@ -2,7 +2,7 @@
 
 Data Cleaning:
   - Removed duplicate entries based on Mouse ID and Timepoint.
-  - Filtered data for specific drug regimens (e.g., Capomulin, Ramicane).
+  - Filtered data for specific drug regimens.
 
 Exploratory Data Analysis (EDA):
   - Calculated summary statistics (mean, median, variance, standard deviation) for tumor volume.
